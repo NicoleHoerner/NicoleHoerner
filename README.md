@@ -1,5 +1,7 @@
 # Hey, I'm Nicole :earth_americas:
 
+<img src="https://github.com/NicoleHoerner/NicoleHoerner/blob/main/Nicole%20Readme%20Titel.png" alt="Image showing Nicole Hoerner">
+
 <!--
 **NicoleHoerner/NicoleHoerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
