@@ -1,5 +1,8 @@
 # Hey, I'm Nicole :earth_americas:
 
+#### <p align="center">:bulb:CONTINUOUS LEARNER
+</p>
+
 <img src="https://github.com/NicoleHoerner/NicoleHoerner/blob/main/Nicole%20Readme%20Titel.png" alt="Image showing Nicole Hoerner">
 
 <!--
